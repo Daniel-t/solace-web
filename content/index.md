@@ -6,6 +6,7 @@ comments: false
 type: "index"
 ---
 
+# About
 We provide grief support for those grieving over the death of their partner.
 Talk or Listen, in a non-threatening environment, to others who have been through the trauma of losing their loved one through death.
 A simple way to remove fear is to seek support and understanding.
