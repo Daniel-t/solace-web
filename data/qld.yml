@@ -1,0 +1,28 @@
+﻿president:
+    name: Betty Mounser
+    role: PRESIDENT, Solace QLD Inc
+    email: solace@ngvemail.com
+    phone: (07) 5580 7034
+    image: 
+    comment: Telephone grief support is provided by trained support workers.
+
+meetings: 
+ -  name : "GOLD COAST"
+    details :    
+    - Meets at the Broadbeach Senior Citizens Centre, 33 TE Peters Drive Broadbeach
+    - on the 2nd and 4th Wednesday of the month
+    - The first hour 10.30-11.30am is devoted to the needs of the newly bereaved and those who have a Special need, such as anniversaries, etc.
+    - This is followed by the main meeting from 11.30am-1.30pm.
+    - Contact Betty Mounser on (07) 5580 7034
+ -  name : "CHERMSIDE - BRISBANE"
+    details :    
+    - Meets at the Chermside Library Meeting Room
+    - on the 1st and 3rd Monday of the month
+    - at 1.00 - 3.00 pm
+    - Contact Bev Marshall on 0407 155 929
+ - name : "MT GRAVATT - BRISBANE"
+   details :    
+    - Meets at the Library, Garden City
+    - on the 1st and 3rd Thursday of the month
+    - at 1.00 - 3.00 pm
+    - Contact Kathy Thomas on (07) 3341 4643

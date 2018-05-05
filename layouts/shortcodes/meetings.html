@@ -1,0 +1,14 @@
+{{ $data := index .Site.Data (.Get 0) }}
+{{ $president := $data.president }}
+{{ $meetings := $data.meetings }}
+{{range $meetings }}
+
+<h4> {{ .name }} </h4>
+
+<ul>
+    {{range .details }}
+    <li>{{ . }}</li>
+    {{end}}
+</ul>
+
+{{end}}

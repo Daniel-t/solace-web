@@ -1,0 +1,11 @@
+{{ define "main" }}
+  {{ partial "header.html" . }}
+<section class="main post-list">
+
+    {{ range .Data.Pages }}
+        {{if and (eq .Type "index") (eq .Title "Home" ) }}
+            {{.Content}}
+        {{end}}
+    {{ end }}
+    {{ partial "footer.html" . }}
+    {{ end }}

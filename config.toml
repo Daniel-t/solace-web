@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Solace Australia"
+theme = "hugo-nuo"
+
+[params]
+  avatar = "/Solace_logo.gif"
+
+[[menu.main]]
+	name= "Home"
+	weight = 10
+	identifier = "home"
+	url = "/"
