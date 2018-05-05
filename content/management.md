@@ -14,10 +14,6 @@ comments: false
 - Each Local branch is represented by two delegates to the State Committee
 - Each State Committee appoints three representatives to the National Committee
 
-### Professional Advice
-
-- Solace has access to a Professional Advisory Council
-
 ### Training
 
 - Trained Support workers are drawn from within each state orgainisation

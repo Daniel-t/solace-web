@@ -364,6 +364,7 @@ a {
 
 .site-header {
     position: fixed;
+    overflow-y: auto;
     left: 0;
     top: 0;
     bottom: 0;
