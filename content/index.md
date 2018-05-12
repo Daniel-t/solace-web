@@ -34,9 +34,10 @@ their partner.
  
 ### Purpose
 
-Are you are feeling lost and alone,
+Are you feeling lost and alone,
 as if half of you is missing ?
-Are you are wondering if life is worth living?
+
+Are you wondering if life is worth living?
 
 
 If so,
