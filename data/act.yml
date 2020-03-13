@@ -1,10 +1,11 @@
 ﻿president:
     name: Judith Murray
     role: PRESIDENT, Solace A.C.T. Inc
-    email: judithmurray1@mac.com
+    email: solaceact@gmail.com
     phone: (02) 6297 1052
     comment: (This phone number is kindly manned by O'Rourke Funeral Directors)
     image: 
+    url: https://solacegriefsupportact.org.au
 
 meetings: 
  -  name : "WODEN in the daytime, JAMISON in the evening."
