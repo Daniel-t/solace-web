@@ -1,0 +1,31 @@
+{{ $data := index .Site.Data (.Get 0) }}
+{{ $president := $data.president }}
+
+
+<table width="500" border="2" cellspacing="0" cellpadding="2">
+  <tbody>
+    <tr>
+      <td width="375">
+        <p align="center"><h3>{{$president.name}}</h3></p>
+        <p align="center"><strong>{{$president.role}}</strong></p>
+        <p align="center">
+          {{$president.email}}
+        </p>
+        <p align="center"><a href="tel://{{$president.phone}}">{{$president.phone}}</a></p>
+        <p align="center">{{$president.comment}}</p>
+        {{if $president.url }}
+    <p>Website: <a href="{{$president.url}}">{{$president.url}}</a></p>
+        {{end}}
+      </td>
+      <td align="center">
+        <span>
+          {{if $president.image }}
+          <img src="{{$president.image}}"/>
+          {{else}}
+          
+          {{end}}
+        </span>
+      </td>
+    </tr>
+  </tbody>
+</table>
