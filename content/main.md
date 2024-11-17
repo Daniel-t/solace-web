@@ -4,6 +4,7 @@ date: 2017-08-02
 layout: "about"
 comments: false
 type: "index"
+location: "https://www.solacegriefsupport.org.au"
 ---
 
 # We Are Moving 
