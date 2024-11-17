@@ -7,7 +7,7 @@ type: "index"
 ---
 
 # We Are Moving 
-Our new home is [www.solacegriefsupport.org.au](https://www.solacegriefsupport.org.au)
+Our new home is **[www.solacegriefsupport.org.au](https://www.solacegriefsupport.org.au)**
 
 # About
 We provide grief support for those grieving over the death of their partner.
